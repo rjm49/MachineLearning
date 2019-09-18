@@ -38,4 +38,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-More info about Pages: check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact)
+More info about Pages: check out [the documentation](https://help.github.com/categories/github-pages-basics/) or contact [GitHub support](https://github.com/contact)
