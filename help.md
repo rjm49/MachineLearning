@@ -3,7 +3,8 @@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for document formatting as in the following examples.
 
 ```markdown
-Note that this is a code block (enclosed by triple backticks) -- include inline code with single backticks `like this`
+Note that this is a code block (enclosed by triple backticks).
+Include inline code with single backticks `like this`
 
 You can also make text **Bold** or _Italic_ 
 
