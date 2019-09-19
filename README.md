@@ -10,7 +10,7 @@ Contents:
 - be
   - filled out during the day
 
-**Please note that this is a public repository and public webpage!**
+*Please note that this is a public repository and public webpage.*
 
 To contribute:
 1. get invited to the [CambridgeALTA](https://github.com/CambridgeALTA) organisational account (ask Paula, Andrew C, Ahmed, Russell)
