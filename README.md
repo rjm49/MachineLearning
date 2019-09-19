@@ -1,4 +1,4 @@
-## Cambridge ALTA Machine Learning Resources
+### Cambridge ALTA Machine Learning Resources
 
 Welcome to our webpages about machine learning!
 
